@@ -15,7 +15,7 @@
 
 ## What this is
 
-A single API that gives you **150+ models across 44 labs** — Anthropic, OpenAI, Google, Moonshot, Meta, Mistral, DeepSeek, Black Forest Labs, Stability, Deepgram, ElevenLabs, Runway, and more — behind one key and one OpenAI-compatible endpoint.
+A single API that gives you **1000+ models across 85+ labs** — Anthropic, OpenAI, Google, Moonshot, Meta, Mistral, DeepSeek, Black Forest Labs, Stability, Deepgram, ElevenLabs, Runway, and more — behind one key and one OpenAI-compatible endpoint.
 
 ```bash
 curl https://api.aigateway.sh/v1/chat/completions \
